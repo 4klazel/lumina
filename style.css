@@ -1,0 +1,19 @@
+.Infinite{
+    text-align:center;
+    color:white;
+    font-family:fantasy;
+}
+.Text{
+    text-align:center;
+    color:white;
+    font-family:fantasy;
+}
+.STAR-QUEST{
+    color:white;
+    text-align:center;
+    font-family:fantasy;
+    Font-size:35px;
+}
+body {
+    background-image: url("https://codehs.com/uploads/d32c10066f03dc7ff5d3f7e7df327bdd")
+    }
